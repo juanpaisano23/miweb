@@ -2,3 +2,7 @@ h1{
     font-size: 60px;
     color: red;
 }
+p{
+    text-decoration: underline;
+    text-align: center;
+}
