@@ -17,3 +17,11 @@ nav{
     display:flex;
       
 }
+nav li{
+    padding: 50px;
+    list-style: none;
+    background-color: coral;
+}
+nav li:hover{
+    background-color: blueviolet;
+}
